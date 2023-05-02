@@ -7,4 +7,4 @@ A tempalte for Power Bi project in order to extract and mantain source control o
 
 ## Usage
 - Extract .tmd (currently on preview) and .json (legacy): Drop the .pbix file into $scripts/ExtractDataFromPBI.bat.
-- Compile into a .pbit (in order to have the data model): Drop the folder into $scripts/CompilePBIT.bat
+- Compile into a .pbit (in order to have the data model): Drop the folder into $scripts/CompilePBIT.bat (currently only legacy is supported by pbi-tools)
